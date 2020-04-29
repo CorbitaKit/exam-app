@@ -4,7 +4,6 @@ import Index from "@/components/index.vue";
 import {actions} from "@/store";
 
 
-
 describe("index.vue", () => {
 	
 	it("has a created hook",()=>{
