@@ -5,6 +5,11 @@
 npm install
 ```
 
+## Project environment variables
+```
+create a .env file for the firebase API variables
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
